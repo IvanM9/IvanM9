@@ -8,7 +8,7 @@
 - [Proyecto2](https://github.com/IvanM9/condigi_backend): Otro proyecto interesante.
 
 ## 🛠️ Habilidades
-- **Frontend**: Angular, Vue 3, NuxtJs.
+- **Frontend**: Angular, Vue 3, NuxtJs, Astro.
 - **Backend**: Node.js, NestJs, Spring Boot, .Net.
 - **DevOps**: Docker.
 
