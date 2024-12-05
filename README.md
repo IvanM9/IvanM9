@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Iván Manzaba
 
-<!--
-**IvanM9/IvanM9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desarrollador de software apasionado por construir soluciones innovadoras.
+💻 Mis tecnologías favoritas incluyen **Node.js**, **Angular** y **Docker**.
 
-Here are some ideas to get you started:
+## 🌟 Proyectos Destacados
+- [Proyecto1](https://github.com/IvanM9/teraflex_api): Breve descripción del proyecto.
+- [Proyecto2](https://github.com/IvanM9/condigi_backend): Otro proyecto interesante.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades
+- **Frontend**: Angular, Vue 3, NuxtJs.
+- **Backend**: Node.js, NestJs, Spring Boot, .Net.
+- **DevOps**: Docker.
+
+## 📫 Contáctame
+- [Correo Electrónico](mailto:mauricio.9.inm@gmail.com)
+- [LinkedIn](https://linkedin.com/in/iván-manzaba)
+- [Portafolio](https://ivan-manzaba.vercel.app/)
