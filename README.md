@@ -17,3 +17,6 @@
 - [Correo Electrónico](mailto:mauricio.9.inm@gmail.com)
 - [LinkedIn](https://linkedin.com/in/iván-manzaba)
 - [Portafolio](https://ivan-manzaba.vercel.app/)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=IvanM9&locale=es&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
